@@ -32,7 +32,7 @@ This repository serves as a directory that helps you easily navigate through my 
 - [PUBLIC ARCHIVE]
   
 ## P <a id="p"></a>
-- [PUBLIC ARCHIVE]
+- [PUBLIC ARCHIVE] <a href="https://github.com/kobrak1/online_education_website">Advice generator<a/> -advice generator block made with HTML, CSS, JavaScript & JQuery
 
 ## R <a id="r"></a>
 - [PUBLIC ARCHIVE]
