@@ -32,7 +32,7 @@ This repository serves as a directory that helps you easily navigate through my 
 - [PUBLIC ARCHIVE]
 
 ## O <a id="p"></a>
-- [PUBLIC ARCHIVE]  [Online Education Platform](https://github.com/kobrak1/online_education_website) -online education platform made with HTML, CSS, JavaScript & JQuery
+- [PUBLIC ARCHIVE]  [Online Education Platform](https://github.com/kobrak1/online_education_website) -This is a responsive website that works on all devices. Online education platform made with HTML, CSS, JavaScript & JQuery
   
 ## P <a id="p"></a>
 - [PUBLIC ARCHIVE]  
