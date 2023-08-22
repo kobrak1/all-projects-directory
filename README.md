@@ -41,7 +41,7 @@ This repository serves as a directory that helps you easily navigate through my 
 - [PUBLIC ARCHIVE]
 
 ## S <a id="s"></a>
-- [PUBLIC ARCHIVE]
+- [PUBLIC ARCHIVE] [Signup Local Storage](https://github.com/kobrak1/signup-local-storage) -This application is a signup page that uses "local storage" to keep track of user data. This app built with CSS3, HTML5 and JavaScript. 
 
 ## T <a id="t"></a>
 - [PUBLIC ARCHIVE]
