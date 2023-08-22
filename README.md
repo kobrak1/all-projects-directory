@@ -14,7 +14,7 @@ This repository serves as a directory that helps you easily navigate through my 
 - [PUBLIC ARCHIVE]
   
 ## C <a id="c"></a>
-- [PUBLIC ARCHIVE]
+- [PUBLIC ARCHIVE] [Calculator App](https://github.com/kobrak1/calculator-app) -calculator app made with HTML, CSS, JavaScript
   
 ## D <a id="d"></a>
 - [PUBLIC ARCHIVE]
