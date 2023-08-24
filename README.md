@@ -47,7 +47,7 @@ This repository serves as a directory that helps you easily navigate through my 
 
 ## S <a id="s"></a>
 - [PUBLIC ARCHIVE] [Signup Local Storage](https://github.com/kobrak1/signup-local-storage) -This application is a signup page that uses "local storage" to keep track of user data. This app is built with CSS3, HTML5, and JavaScript.
-- [PUBLIC ARCHIVE] [Sony Homepage]([https://kobrak1.github.io/sony-home-page/](https://github.com/kobrak1/sony-home-page)) -This is sony.com's responsive homepage redesigned by Burak Karhan. This app is built with CSS3, HTML5.
+- [PUBLIC ARCHIVE] [Sony Homepage](https://github.com/kobrak1/sony-home-page) -This is sony.com's responsive homepage redesigned by Burak Karhan. This app is built with CSS3, HTML5.
 
 ## T <a id="t"></a>
 - [PUBLIC ARCHIVE]
