@@ -14,7 +14,7 @@ This repository serves as a directory that helps you easily navigate through my 
 - [PUBLIC ARCHIVE]
   
 ## C <a id="c"></a>
-- [PUBLIC ARCHIVE] [Calculator App](https://github.com/kobrak1/calculator-app) -calculator app made with HTML, CSS, JavaScript
+- [PUBLIC ARCHIVE] [Calculator App](https://github.com/kobrak1/calculator-app) -calculator app made with HTML, CSS & JavaScript.
   
 ## D <a id="d"></a>
 - [PUBLIC ARCHIVE]
@@ -27,6 +27,11 @@ This repository serves as a directory that helps you easily navigate through my 
   
 ## G <a id="g"></a>
 - [PUBLIC ARCHIVE]
+
+## L <a id="l"></a>
+- [PUBLIC ARCHIVE] [Login/Register App on Local Storage](https://github.com/kobrak1/login-register-page) -This is a responsive website that works on all devices. Online education platform made with HTML, CSS & JavaScript
+
+- 
 
 ## M <a id="m"></a>
 - [PUBLIC ARCHIVE]
