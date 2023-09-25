@@ -40,7 +40,7 @@ This repository serves as a directory that helps you easily navigate through my 
 - [PUBLIC ARCHIVE]  [Online Education Platform](https://github.com/kobrak1/online_education_website) -This is a responsive website that works on all devices. Online education platform made with HTML, CSS, JavaScript & JQuery
   
 ## P <a id="p"></a>
-- [PUBLIC ARCHIVE]  
+- [PUBLIC ARCHIVE]  [Phonebook App with React.js](https://github.com/kobrak1/phonebook-app) -It is a simple web application developed using React.js and a JSON server. It allows users to add and manage contact information, including names and phone numbers. The app provides search functionality to filter contacts by name, ensuring easy access to desired contacts. The data is stored and retrieved from a JSON server, providing a seamless and persistent experience for users. The app also includes validation to prevent duplicate entries with the same name.
 
 ## R <a id="r"></a>
 - [PUBLIC ARCHIVE]
