@@ -15,6 +15,7 @@ This repository serves as a directory that helps you easily navigate through my 
   
 ## C <a id="c"></a>
 - [PUBLIC ARCHIVE] [Calculator App](https://github.com/kobrak1/calculator-app) -calculator app made with HTML, CSS & JavaScript.
+- [PUBLIC ARCHIVE] [Country Information App](https://github.com/kobrak1/calculator-app) - It is a responsive app made with React.js, Axios, and Tailwind CSS.
   
 ## D <a id="d"></a>
 - [PUBLIC ARCHIVE]
