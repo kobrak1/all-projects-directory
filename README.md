@@ -57,4 +57,4 @@ This repository serves as a directory that helps you easily navigate through my 
 - [PUBLIC ARCHIVE]
 
 ## W <a id="u"></a>
-- [PUBLIC ARCHIVE]
+- [PUBLIC ARCHIVE] [wyd chat](https://github.com/kobrak1/wyd-chat) - A real-time chat application that allows users to send text messages and media files. It has been built with MERN stack. Tailwind CSS is used for styling.
