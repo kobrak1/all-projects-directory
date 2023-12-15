@@ -21,7 +21,7 @@ This repository serves as a directory that helps you easily navigate through my 
 - [PUBLIC ARCHIVE]
 
 ## E <a id="e"></a>
-- [PUBLIC ARCHIVE]
+- [PUBLIC ARCHIVE] [E-Commerce App](https://github.com/kobrak1/e-commerce)
   
 ## F <a id="f"></a>
 - [PUBLIC ARCHIVE]
