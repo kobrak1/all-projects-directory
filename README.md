@@ -21,7 +21,7 @@ This repository serves as a directory that helps you easily navigate through my 
 - [PUBLIC ARCHIVE]
 
 ## E <a id="e"></a>
-- [PUBLIC ARCHIVE] [E-Commerce App](https://github.com/kobrak1/e-commerce)
+- [PUBLIC ARCHIVE] [E-Commerce App](https://github.com/kobrak1/e-commerce) -This project is a full-stack e-commerce site with an admin panel and payment method developed using the MERN (MongoDB, Express.js, React, Node.js) stack.
   
 ## F <a id="f"></a>
 - [PUBLIC ARCHIVE]
