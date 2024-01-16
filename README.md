@@ -44,7 +44,7 @@ This repository serves as a directory that helps you easily navigate through my 
 - [PUBLIC ARCHIVE]  [Phonebook App with React.js](https://github.com/kobrak1/phonebook-app) -It is a simple web application developed using React.js and a JSON server. It allows users to add and manage contact information, including names and phone numbers. The app provides search functionality to filter contacts by name, ensuring easy access to desired contacts. The data is stored and retrieved from a JSON server, providing a seamless and persistent experience for users. The app also includes validation to prevent duplicate entries with the same name.
 
 ## R <a id="r"></a>
-- [PUBLIC ARCHIVE] [React Todo List App](https://github.com/kobrak1/todo-list-react)
+- [PUBLIC ARCHIVE] [React Todo List App](https://github.com/kobrak1/todo-list-react) - A simple Todo List app built with React, using libraries such as uuid, Yup, Formik, and Context API. The app features local storage for storing both task data and dark mode preference. You can reach to the website here [https://your-todos.onrender.com/](https://your-todos.onrender.com/)
 
 ## S <a id="s"></a>
 - [PUBLIC ARCHIVE] [Signup Local Storage](https://github.com/kobrak1/signup-local-storage) -This application is a signup page that uses "local storage" to keep track of user data. This app is built with CSS3, HTML5, and JavaScript.
